@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nem8fGp5ez6BIdwJ/1LbObzgZdyThn/yiT5vnKg9rbFVqS2Xz3dR/vCKZxYDcCAfCKSNPdZW8hvR5T8J9DzvOw==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Documents/Codecool/OOPWithC#/SoloPhase1/ClassDesign/playing-cards/PlayingCards/PlayingCards/PlayingCards.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.15/microsoft.netcore.app.host.osx-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
